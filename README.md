@@ -1,0 +1,2 @@
+# PAT-exercises
+Algorithm exercises
